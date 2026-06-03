@@ -108,5 +108,5 @@ Network troubleshooting and verification
 Cisco Packet Tracer network design
 
 Author
-ALIMI RIDWAN OLAIDE
+
 Created as a Cisco Networking and Network Segmentation Lab Project using Cisco Packet Tracer.
